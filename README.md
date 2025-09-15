@@ -45,26 +45,11 @@ Extend by subclassing `PluginBase` or adding to `exploit_chains`.
 - `PluginBase`: Base class for plugin development.
 - Threaded architecture for performance.
 
-## Screenshots
-Below are example screenshots from lab testing (replace with your own):
-- **Port Scan Results**:  
-  ![Port Scan](screenshots/port_scan.png)
-- **Buffer Overflow Success**:  
-  ![Buffer Overflow](screenshots/buffer_overflow.png)
-- **Brute-Force Output**:  
-  ![Brute Force](screenshots/brute_force.png)
-- **Proof of Exploitation**:  
-  ![Proof](screenshots/proof_txt.png)  
-  (Shows `cat proof.txt` and `ip addr` for OSCP+ documentation)
-
 ## Ethical Considerations
 - Use only in authorized lab environments.
 - Unauthorized testing may violate laws (e.g., CFAA in the US).
 - For OSCP+: Adhere to exam rules, document thoroughly, and limit to one target.
 - Always obtain explicit permission for testing.
 
-## Contributing
-Fork the repo, create a feature branch, and submit a pull request. Test all contributions in a lab environment.
-
 ## Acknowledgments
-Inspired by Metasploit and Nmap. Developed for educational purposes on August 11, 2025.
+Inspired by Metasploit and Nmap. Developed for educational purposes on September 15, 2025.
