@@ -14,7 +14,7 @@ PenForge is a modular, Python-based penetration testing framework designed for a
 1. Ensure Python 3.8+ is installed.
 2. Clone the repository:
    ```
-   git clone https://github.com/malware1004/penforge.git
+   git clone https://github.com/cipher1004/penforge.git
    cd penforge
    ```
 3. No external dependencies required (uses standard Python libraries: socket, threading, etc.).
