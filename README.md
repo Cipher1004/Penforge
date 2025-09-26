@@ -22,7 +22,7 @@ PenForge is a modular, Python-based penetration testing framework designed for a
 ## Usage
 Run the framework with:
 ```
-python3 penforge_advanced.py --target <IP> --ports <comma-separated ports, e.g., 80,443,9999>
+python3 penforge.py --target <IP> --ports <comma-separated ports, e.g., 80,443,9999>
 ```
 - **Example**: `python3 penforge_advanced.py --target 192.168.1.100 --ports 80,9999`
 - Output: Scan results, plugin findings, and exploit outcomes.
